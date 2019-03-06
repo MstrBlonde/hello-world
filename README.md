@@ -1,2 +1,2 @@
 # hello-world
-Learning
+Learning stuff about things and stuff.
